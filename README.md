@@ -2,9 +2,9 @@
 
 This notebook analyzes research, development and innovation data in the oil industry sponsored by companies in Brazil. Projects can be carried out by universities, research institutes or private companies.
 
-Between March 2016 and March 2022, 2592 projects were started in Brazil related to Research, Development and Innovation sponsored by oil and gas companies. The projects can be carried out by universities, research institutes or private companies, and spam several areas of oil and gas industry. These projects contributed to the development of people and knowledge in many ways.
+Between March 2016 and March 2022, 2592 projects were started in Brazil related to Research, Development and Innovation sponsored by oil and gas companies. The projects can be carried out by universities, research institutes or private companies, and spam several areas of oil and gas industry. 
 
-Petrobras sponsored +80% of the projects, carried out by 89 universities and more than 96 companies.
+More than 20 companies sponsored projects and Petrobras sponsored +80% of the projects. The projects were carried out by 89 universities and more than 96 companies. These projects contributed to the development of people and knowledge in many ways.
 
 "Law 9478, of 08/06/1997, established for the National Agency of Petroleum, Natural Gas and Biofuels (ANP), among others, the attribution of stimulating research and the adoption of new technologies for the sector. In view of this, the contracts entered into between the Agency and the Oil Companies for the exploration, development and production of oil and natural gas have, since Round Zero, Research, Development and Innovation clauses (RD&I Clause - PD&I in Portuguese) that establish the obligation to carry out of expenses qualified as RD&I by the Oil Companies.
 
