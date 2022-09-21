@@ -16,7 +16,7 @@ There may be errors and any feedback is appreciated.
 
 ![years_project](https://user-images.githubusercontent.com/19572621/191375621-390730c5-8db9-4e58-8446-3aa85ba3124e.png)
 ![projects_sponsor](https://user-images.githubusercontent.com/19572621/191375618-1443465d-4789-4116-a2e9-7bc56a5d0000.png)
-![projects_universities](https://user-images.githubusercontent.com/19572621/191375616-a1c520dd-fcda-405c-a8b3-89397abeecb6.png)
-![projects_companies](https://user-images.githubusercontent.com/19572621/191375610-ed7e2367-04db-4c0e-b1b8-2f1cd85f4bce.png)
+![university](https://user-images.githubusercontent.com/19572621/191500190-2098befb-964a-49fe-864d-f5649eb6a2e6.png)
+![executing_company](https://user-images.githubusercontent.com/19572621/191500195-54594413-b571-43f0-9d1b-c6324ac09a50.png)
 
 
