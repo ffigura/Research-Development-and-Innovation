@@ -1,6 +1,6 @@
 # Research Development and Innovation, in Portuguese: Pesquisa, Desenvolvimento e Inovação (PD&I)
 
-This notebook analyzes research, development and innovation data in the oil industry sponsored by companies in Brazil. Projects can be carried out by universities, research institutes or private companies.
+These notebooks analyze research, development and innovation data in the oil industry sponsored by companies in Brazil. Projects can be carried out by universities, research institutes or private companies.
 
 Between March 2016 and March 2022, 2592 projects were started in Brazil related to Research, Development and Innovation sponsored by oil and gas companies. The projects can be carried out by universities, research institutes or private companies, and spam several areas of oil and gas industry. 
 
@@ -11,6 +11,18 @@ More than 20 companies sponsored projects and Petrobras sponsored +80% of the pr
 The RD&I clause establishes the application of a percentage of the gross revenue from production, according to the specific conditions of each type of contract. The ANP is responsible for analyzing, approving, monitoring and supervising the application of resources arising from the RD&I clause."
 
 The dataset was downloaded in August 27, 2022 from https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/dados-abertos-pesquisa-e-desenvolvimento-e-inovacao-pd-i
+
+Notebook [PD&I](https://github.com/ffigura/Research-Development-and-Innovation/blob/main/PD%26I%20Brazil.ipynb) has the full data:
+ - Between March 2016 and March 2022, 2592 projects were started in Brazil
+ - 25 Companies or joints sponsored projects
+ - 89 universities or research centers developed research
+ - 96 service or consultancy companies carried out on projects
+
+Notebook [PD&I - Geophysics](https://github.com/ffigura/Research-Development-and-Innovation/blob/main/PD%26I%20Brazil-Geophysics.ipynb) has geophysics related themes:
+ - Between March 2016 and March 2022, 584 projects related to geophysics were started in Brazil
+ - 14 Companies or joints sponsored projects
+ - 44 universities or research centers developed research
+ - 33 service or consultancy companies carried out on projects
 
 There may be errors and any feedback is appreciated.
 
