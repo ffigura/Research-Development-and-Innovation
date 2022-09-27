@@ -22,7 +22,8 @@ Notebook [PD&I - Geophysics](https://github.com/ffigura/Research-Development-and
  - Between March 2016 and March 2022, 584 projects related to geophysics were started in Brazil
  - 14 Companies or joints sponsored projects
  - 44 universities or research centers developed research
- - 33 service or consultancy companies carried out on projects
+ - 33 companies carried out on projects
+ - 25 service or consultancy companies carried out on projects
 
 There may be errors and any feedback is appreciated.
 
